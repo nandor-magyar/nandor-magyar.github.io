@@ -1,0 +1,50 @@
+baseURL = "https://nandor-magyar.github.io/"
+languageCode = "en-us"
+title = "Hello! I'm Nandi"
+
+theme = ["gokarna"]
+
+enableRobotsTXT = true
+
+[menu]
+  [[menu.main]]
+    identifier = "me"
+    url = "/me"
+    pre = ""
+    post = ""
+    name = "Me"
+    weight = 1
+  [[menu.main]]
+    identifier = "posts"
+    url = "/posts/"
+    pre = ""
+    post = ""
+    name = "Posts"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 3
+    
+  [[menu.main]]
+    identifier = "github"
+    url = "https://github.com/nandor-magyar"
+    weight = 4
+    
+    # We use feather-icons: https://feathericons.com/
+    pre = "<span data-feather='github'></span>"
+
+[params]
+    avatarURL = "/images/moi.png"
+    description = "Software Engineer (DevOps) | Master of curiosity"
+    metaKeywords = ["blog", "hugo", "tech", "developer", "DevOps", "sre", "baking"]
+    footer =  ' '
+    socialIcons = [
+        {name = "github", url = "https://github.com/nandor-magyar"},
+        {name = "linkedin", url = "https://www.linkedin.com/in/nandor-magyar-84a22911a"},
+        {name = "discord", url="https://discordapp.com/users/444212360542945280"},
+        {name = "telegram", url="https://t.me/n_and_or"},
+        {name = "rss", url = "/rss.xml"},
+    ]
