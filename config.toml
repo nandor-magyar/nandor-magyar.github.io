@@ -38,8 +38,12 @@ enableRobotsTXT = true
 
 [params]
     avatarURL = "/images/moi.png"
-    description = "Software Engineer (DevOps) | Master of curiosity"
+    description = "Software Engineer (DevOps) | Master of curiosity "
+    CTA ="Hit me up with interesting challenges, job opportunities! I'm always up for a coffee!"
     metaKeywords = ["blog", "hugo", "tech", "developer", "DevOps", "sre", "baking"]
+    # customHeadHTML = '''
+    #   <script src="https://cdn.tailwindcss.com"></script>
+    # '''
     footer =  ' '
     socialIcons = [
         {name = "github", url = "https://github.com/nandor-magyar"},

@@ -1,14 +1,13 @@
 ---
 title: "Hello World!"
 date: 2023-12-28T03:00:00+00:00
-tags: []
+tags: [hello]
 type: "post"
 ---
 
 [Hello world](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) or "initial commit".
 
-There are many ways of launching a project.
-
+As I am launching my proper site now, I was wondering, there are many ways of launching a project.
 
 
 Here, follows a list of famous first words.
@@ -26,7 +25,7 @@ Translated to: Maman died today. Or yesterday maybe, I don't know.
 L'étranger of Albert Camus, setting the tone right away.
 
 ## Mommy or Daddy
-Every healthy children gets to a point to pronounce the first words, I thought there will only be traditional ones. The [article](https://www.babysensemonitors.com/blogs/news/a-world-of-first-words) was interesting.
+Every healthy children gets to a point to pronounce the first words, I thought there will only be traditional ones, surprised by the [article](https://www.babysensemonitors.com/blogs/news/a-world-of-first-words), interesting.
 
 ## initial: merged repositories into a public one
 
@@ -40,7 +39,7 @@ Bell's famous first sentence in the [telephone](https://en.wikipedia.org/wiki/Te
 
 ## Lo
 This is why we don't test in production today, lesson learned from the ARPANET.
-The [story](https://www.historyofinformation.com/detail.php?entryid=1108)
+The [story](https://www.historyofinformation.com/detail.php?entryid=1108).
 
 \~~~
 
