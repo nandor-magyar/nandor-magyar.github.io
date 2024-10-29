@@ -1,40 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello! I&#39;m Nandi</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Hello! I&#39;m Nandi</description>
+    <title>Recipes on Hello! I&#39;m Nandi</title>
+    <link>http://localhost:1313/tags/recipes/</link>
+    <description>Recent content in Recipes on Hello! I&#39;m Nandi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Oct 2024 16:34:37 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/recipes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pumpkin season is ON</title>
       <link>http://localhost:1313/posts/pumpkin-spice/</link>
       <pubDate>Tue, 29 Oct 2024 16:34:37 +0100</pubDate>
       <guid>http://localhost:1313/posts/pumpkin-spice/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been making pumpkin spice pure for years now, with decent result. My method follows.&lt;/p&gt;&#xA;&lt;p&gt;Ingredients:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;good, ripe organic pumpkin&lt;/li&gt;&#xA;&lt;li&gt;sugar&lt;/li&gt;&#xA;&lt;li&gt;ground ginger&lt;/li&gt;&#xA;&lt;li&gt;ground cinnamon&lt;/li&gt;&#xA;&lt;li&gt;ground nutmeg&lt;/li&gt;&#xA;&lt;li&gt;ground cloves&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The spices are added step-by-step their ratios explained.&#xA;Spice qualities are different by brand, also by country, any fixed recipe is misdirection.&lt;/p&gt;&#xA;&lt;p&gt;Preparation:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Cut the pumpkin to big chunks, put it to the oven for a good 40-45 minutes until you see strong marks of caramelized sugars.&lt;/li&gt;&#xA;&lt;li&gt;Let it rest.&lt;/li&gt;&#xA;&lt;li&gt;Put 5-7 tbsp sugar to the stove &amp;amp; start caramellization, don&amp;rsquo;t wait until completion add 300-400ml water halfway.&lt;/li&gt;&#xA;&lt;li&gt;Wait until the caramel dissolves, while keeping the gas on a low setting.&lt;/li&gt;&#xA;&lt;li&gt;Peel the baked pumpkin add it to the sugar-caramel syrup.&lt;/li&gt;&#xA;&lt;li&gt;Add the ginger powder 2-4 teaspoon (full), if the ginger powder is hot and feels spicy use less.&lt;/li&gt;&#xA;&lt;li&gt;Add the same amount of cinnamon.&lt;/li&gt;&#xA;&lt;li&gt;Add half amount or slightly less than half of ground nutmeg, if it is strong use a bit less.&lt;/li&gt;&#xA;&lt;li&gt;Add half or slightly less ground cloves.&lt;/li&gt;&#xA;&lt;li&gt;Use some blending device to make a smooth paste.&lt;/li&gt;&#xA;&lt;li&gt;After blending, adjust the flavor if needed, sometimes I find extra ginger helps.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;Be careful, too much cloves can spoil the blend easily, be careful with that one, other spices are less dominant even overdone.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Hello World!</title>
-      <link>http://localhost:1313/posts/hello-world/</link>
-      <pubDate>Thu, 28 Dec 2023 03:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hello-world/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/%22Hello,_World!%22_program&#34;&gt;Hello world&lt;/a&gt; or &amp;ldquo;initial commit&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;As I am launching my proper site now, I was wondering, there are many ways of launching a project.&lt;/p&gt;&#xA;&lt;p&gt;Here, follows a list of famous first words.&lt;/p&gt;&#xA;&lt;h2 id=&#34;let-there-be-light&#34;&gt;&amp;ldquo;Let there be light.&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;How it all started according to the Bible&amp;rsquo;s Genenis.&lt;/p&gt;&#xA;&lt;h2 id=&#34;one-small-step-for-man-one-giant-leap-for-mankind&#34;&gt;&amp;ldquo;One small step for man, one giant leap for mankind.&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Neil Armstrong said these words during the moon landing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-aujourdhui-maman-est-morte-ou-peut-être-hier-je-ne-sais-pas-&#34;&gt;« Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. »&lt;/h2&gt;&#xA;&lt;p&gt;Translated to: Maman died today. Or yesterday maybe, I don&amp;rsquo;t know.&#xA;L&amp;rsquo;étranger of Albert Camus, setting the tone right away.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/index-about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/index-about/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>http://localhost:1313/me/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/me/</guid>
-      <description>&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;First name: Nandor&#xA;Last name: Magyar&#xA;Age: &amp;gt;25&#xA;Sex: Male&#xA;Location: Utrecht, NL&#xA;&lt;/code&gt;&lt;/pre&gt;</description>
     </item>
   </channel>
 </rss>

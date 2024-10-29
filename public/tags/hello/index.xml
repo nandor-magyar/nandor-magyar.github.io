@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello on Hello! I&#39;m Nandi</title>
+    <link>http://localhost:1313/tags/hello/</link>
+    <description>Recent content in Hello on Hello! I&#39;m Nandi</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Dec 2023 03:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hello/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World!</title>
+      <link>http://localhost:1313/posts/hello-world/</link>
+      <pubDate>Thu, 28 Dec 2023 03:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hello-world/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/%22Hello,_World!%22_program&#34;&gt;Hello world&lt;/a&gt; or &amp;ldquo;initial commit&amp;rdquo;.&lt;/p&gt;&#xA;&lt;p&gt;As I am launching my proper site now, I was wondering, there are many ways of launching a project.&lt;/p&gt;&#xA;&lt;p&gt;Here, follows a list of famous first words.&lt;/p&gt;&#xA;&lt;h2 id=&#34;let-there-be-light&#34;&gt;&amp;ldquo;Let there be light.&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;How it all started according to the Bible&amp;rsquo;s Genenis.&lt;/p&gt;&#xA;&lt;h2 id=&#34;one-small-step-for-man-one-giant-leap-for-mankind&#34;&gt;&amp;ldquo;One small step for man, one giant leap for mankind.&amp;rdquo;&lt;/h2&gt;&#xA;&lt;p&gt;Neil Armstrong said these words during the moon landing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;-aujourdhui-maman-est-morte-ou-peut-être-hier-je-ne-sais-pas-&#34;&gt;« Aujourd’hui, maman est morte. Ou peut-être hier, je ne sais pas. »&lt;/h2&gt;&#xA;&lt;p&gt;Translated to: Maman died today. Or yesterday maybe, I don&amp;rsquo;t know.&#xA;L&amp;rsquo;étranger of Albert Camus, setting the tone right away.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
